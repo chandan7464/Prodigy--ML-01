@@ -10,7 +10,7 @@ Model Comparison
 
 For this project, I implemented three machine learning models: LinearRegression,DecisionTreeRegressor and RandomForestRegressor. Each model was chosen based on its suitability for the task and its potential to capture the underlying patterns in the data. I trained and evaluated each model, comparing their performance metrics and assessing how well they predicted prices
 
-ResulTS
+Results
 
 After a rigorous comparison, RandomForestRegressor emerged as the most accurate in predicting prices. The performance metrics, such as After Cross-Validation calculated 200 rmse and then found out the mean and std of these rmse's, indicate its superior capability in capturing the underlying patterns in the dataset. This model is selected as the final choice for price prediction in this project.
 
